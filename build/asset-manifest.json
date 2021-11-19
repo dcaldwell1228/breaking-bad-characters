@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.f52c797d.chunk.css",
-    "main.js": "/static/js/main.3b083fbf.chunk.js",
-    "main.js.map": "/static/js/main.3b083fbf.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ffedaa13.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ffedaa13.js.map",
-    "static/js/2.6d9c567a.chunk.js": "/static/js/2.6d9c567a.chunk.js",
-    "static/js/2.6d9c567a.chunk.js.map": "/static/js/2.6d9c567a.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.f52c797d.chunk.css.map": "/static/css/main.f52c797d.chunk.css.map",
-    "static/js/2.6d9c567a.chunk.js.LICENSE.txt": "/static/js/2.6d9c567a.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/bg.085908ea.jpg",
-    "static/media/logo.e6ecab44.png": "/static/media/logo.e6ecab44.png",
-    "static/media/spinner.11d9cde8.gif": "/static/media/spinner.11d9cde8.gif"
+    "main.css": "/breaking-bad-characters/static/css/main.21347312.chunk.css",
+    "main.js": "/breaking-bad-characters/static/js/main.3b083fbf.chunk.js",
+    "main.js.map": "/breaking-bad-characters/static/js/main.3b083fbf.chunk.js.map",
+    "runtime-main.js": "/breaking-bad-characters/static/js/runtime-main.0dece4a0.js",
+    "runtime-main.js.map": "/breaking-bad-characters/static/js/runtime-main.0dece4a0.js.map",
+    "static/js/2.6d9c567a.chunk.js": "/breaking-bad-characters/static/js/2.6d9c567a.chunk.js",
+    "static/js/2.6d9c567a.chunk.js.map": "/breaking-bad-characters/static/js/2.6d9c567a.chunk.js.map",
+    "index.html": "/breaking-bad-characters/index.html",
+    "static/css/main.21347312.chunk.css.map": "/breaking-bad-characters/static/css/main.21347312.chunk.css.map",
+    "static/js/2.6d9c567a.chunk.js.LICENSE.txt": "/breaking-bad-characters/static/js/2.6d9c567a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/breaking-bad-characters/static/media/bg.085908ea.jpg",
+    "static/media/logo.e6ecab44.png": "/breaking-bad-characters/static/media/logo.e6ecab44.png",
+    "static/media/spinner.11d9cde8.gif": "/breaking-bad-characters/static/media/spinner.11d9cde8.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.ffedaa13.js",
+    "static/js/runtime-main.0dece4a0.js",
     "static/js/2.6d9c567a.chunk.js",
-    "static/css/main.f52c797d.chunk.css",
+    "static/css/main.21347312.chunk.css",
     "static/js/main.3b083fbf.chunk.js"
   ]
 }
