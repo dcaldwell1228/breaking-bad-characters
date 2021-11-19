@@ -36,6 +36,7 @@
       "last 1 safari version"
     ]
   },
+  "homepage": "https://dcaldwell1228.github.io/breaking-bad-characters/",
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
   "devDependencies": {},
